@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There+👋%2C+I'm+Vijayarajan!;Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+There+👋,+I'm+Vijayarajan!;Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
